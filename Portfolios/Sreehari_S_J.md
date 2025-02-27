@@ -4,7 +4,7 @@
 I'm Sreehari S J, a computer science student and web developer who loves building cool projects and exploring new tech.
 Always up for learning, collaborating, and pushing my skills to the next level! 🚀
 
-## Tech Stack##
+## Tech Stack ##
 HTML, CSS, JavaScript, React.js , Next.js 
 
 
